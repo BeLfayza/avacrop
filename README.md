@@ -1,0 +1,1 @@
+Avatar cropper ben rapih simetris pfp ne (ts frying me nek pfp ne ra rapi/simetris)
