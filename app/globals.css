@@ -21,6 +21,11 @@ html {
   min-width: 320px;
   scroll-behavior: smooth;
   background: var(--background);
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+html::-webkit-scrollbar {
+  display: none;
 }
 
 body {
